@@ -1,0 +1,18 @@
+Process 0 on cn03
+Process 0 - startIndex 0 endIndex 124; points in the circle 99
+Process 7 on cn10
+Process 7 - startIndex 875 endIndex 999; points in the circle 96
+Process 3 on cn06
+Process 3 - startIndex 375 endIndex 499; points in the circle 100
+Process 4 on cn07
+Process 4 - startIndex 500 endIndex 624; points in the circle 101
+Process 1 on cn04
+Process 1 - startIndex 125 endIndex 249; points in the circle 99
+Process 5 on cn08
+Process 5 - startIndex 625 endIndex 749; points in the circle 93
+Process 2 on cn05
+Process 2 - startIndex 250 endIndex 374; points in the circle 96
+Process 6 on cn09
+Process 6 - startIndex 750 endIndex 874; points in the circle 104
+Execution time (sec) = 0.039745 sum = 788 
+Ratio = 0.788000 Pi (theoretical) = 3.152000 Delta = -0.010407 

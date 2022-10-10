@@ -1,0 +1,6 @@
+Process 0 on cn15
+Process 0 - startIndex 0 endIndex 4999; points in the circle 3966
+Process 1 on cn16
+Process 1 - startIndex 5000 endIndex 9999; points in the circle 3966
+Execution time (sec) = 0.013742 sum = 7932 
+Ratio = 0.793200 Pi (theoretical) = 3.172800 Delta = -0.031207 

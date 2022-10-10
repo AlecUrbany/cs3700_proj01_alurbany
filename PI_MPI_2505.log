@@ -1,0 +1,10 @@
+Process 0 on cn19
+Process 0 - startIndex 0 endIndex 24; points in the circle 20
+Process 2 on cn21
+Process 2 - startIndex 50 endIndex 74; points in the circle 16
+Process 3 on cn22
+Process 3 - startIndex 75 endIndex 99; points in the circle 21
+Process 1 on cn20
+Process 1 - startIndex 25 endIndex 49; points in the circle 20
+Execution time (sec) = 0.023744 sum = 77 
+Ratio = 0.770000 Pi (theoretical) = 3.080000 Delta = 0.061593 
